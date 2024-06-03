@@ -3,9 +3,10 @@
 ## Overview
 This project utilizes Google Data Studio and Excel to assist businesses in visualizing the performance metrics of multiple marketing campaigns on Facebook pages. By analyzing these metrics, businesses can effectively evaluate campaign performance and refine their marketing strategies.
 
-- Link to the dashboard: [Dashboard](https://lookerstudio.google.com/reporting/45ef2cbe-f3fa-4423-ba69-7bc0ec00854e)
+- **Link to the dashboard**: [Dashboard](https://lookerstudio.google.com/reporting/45ef2cbe-f3fa-4423-ba69-7bc0ec00854e)
 
-![Screenshot 2024-06-03 at 15 57 24](https://github.com/tnganduong/Facebook-Ads-Analysis-using-Data-Studio/assets/128363160/0fd9bb73-f17a-4129-a301-78cac92c9e49)
+![Screenshot 2024-06-03 at 15 57 24](https://github.com/tnganduong/Facebook-Ads-Analysis-using-Data-Studio/blob/main/Facebook_Ads_Analysis_Dashboard.pdf)
+
 
 ## Key Features
 - Visualizes performance metrics of various marketing campaigns on Facebook
